@@ -1,7 +1,6 @@
 
 int main(){
-	short i,j;
-	int i,j;
+	short int i,j;
 	i = 1;
 	j = 2;
 	i++;
